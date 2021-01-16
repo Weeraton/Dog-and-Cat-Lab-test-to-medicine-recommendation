@@ -1,0 +1,1451 @@
+id,hn,species,submitted_sample,collect_method,vitek_id,bact_species_1,Amoxicillin/clavulanic acid,Ampicillin,Benzyl penicillin,Cefotaxime,Cefovecin,Cefoxitin,Cefpodoxime,Ceftriaxone,Cephalothin,Chloramphenicol,Clindamycin,Enrofloxacin,Erythromycin,Fusidic acid,Gentamicin,Inducible clindamycin,Levofloxacin,Linezolid,Marbofloxacin,Mupirocin,Nitrofurantoin,Oxacillin,Rifampicin,Sulfamethoxazole/trimethoprim,Tetracycline,Vancomycin
+0,5400015,Dog,Crust from skin,,GP,Staphylococcus schleiferi,S,,*R,,S,,S,,S,S,R,S,S,S,S,-,,,S,,S,R,S,R,R,S
+1,5400022,Dog,Exudate from pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+2,5400040,Dog,Crust from skin,,GP,Staphylococcus schleiferi,S,,S,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,S,S,S,S,S
+3,5400040,Dog,crust from folliculitis,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,I,R,S,S,-,,,S,S,S,R,S,S,R,S
+4,5400041,Dog,Folliculitis not improve after Cephalexin 3 week,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,R,-,,,R,S,S,R,S,S,R,S
+6,5500365,Dog,Folliculitis not improve After Rilexin,,GP,Staphylococcus schleiferi,R,,*R,,R,*+,R,,R,S,R,R,R,S,R,-,,,R,R,S,R,S,S,R,S
+7,5501081,Dog,Wound exudate,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,R,S,R,R,S,R,-,,,R,R,S,R,S,R,R,S
+8,5501081,Dog,ESF pin,,GP,Staphylococcus schleiferi,R,,,,R,-,R,,S,S,S,R,R,S,R,-,,,R,,S,R,S,S,R,S
+10,5502161,Dog,deep exudate,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+11,5502262,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,I,-,R,,S,R,S,R,R,S,R,-,,,R,,S,R,S,R,R,S
+12,5502545,Dog,Pustule,,GP,Staphylococcus chromogenes,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,,S,R,S,S,R,S
+13,5502593,Dog,Pustule,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,R,I,R,S,S,-,,,S,,S,R,S,S,R,S
+14,5502771,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+15,5503106,Dog,Epidermal collarette,,GP,Staphylococcus schleiferi,S,,,,R,-,R,,S,S,R,R,R,S,R,+,,,R,R,S,R,S,S,R,S
+16,5503499,Dog,wound,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,,S,R,S,S,R,S
+18,5504384,Dog,Bite wound at cervical area,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,R,,S,R,S,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+19,5504399,Dog,Folliculitis,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,R,-,,,S,S,S,S,S,R,R,S
+20,5505254,Dog,abdomen,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,R,-,,,R,S,S,R,S,R,R,S
+23,5505604,Dog,Pus @ Ltstifle,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+25,5506054,Dog,urine,,GP,Enterococcus faecium (2.2x107 CFU/ml),R,,R,,R,,,,,S,R,R,R,,,,,,R,,I,,,R,R,S
+26,5506180,Dog,Urine,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,I,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+27,5506189,Dog,Bloody exudate from papilloma,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,R,-,,,R,S,S,R,S,R,R,S
+29,5507033,Dog,Rt. 4th Mammary gl fluid,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+30,5507338,Dog,UB mucosa,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,R,R,R,S,R,-,,,R,S,S,S,S,R,R,S
+31,5507427,Dog,"ห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN 5507427 Clinician สพ.ญ.ณัฐวดี
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN 5507427 Clinician สพ.ญ.ณัฐวดี
+----media/image1.png----
+	ข้อมูลการส่ง และประวัติของตัวอย่าง
+Date of sample collection
+14 Jan 2017
+Date of submission
+14 Jan 2017
+Owner
+อโณทัย จิตรถเวช
+Patient
+มู่หลาน
+Species
+Dog
+Breed
+Unk
+Sex
+Unk
+Birth date
+Unk
+1)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+crust // เคยกิน AMC ไม่หาย",,GP,Methicillin-resistant Staphylococcus schleiferi,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,5508352,Dog,Rt.ear,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+33,5509041,Dog,Exudate from skin,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+34,5509664,Dog,Purulent fluid,,GP,Staphylococcus schleiferi,R,,R,,R,+,R,,R,S,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+36,5511610,Cat,wound,,GP,Staphylococcus sciuri,S,,S,,S,-,I,,S,S,S,S,S,I,S,-,,,S,,S,R,S,S,S,S
+37,5512335,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+38,5512963,Dog,Pustule (DDx.pyoderma),,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,R,I,R,S,S,-,,,S,S,S,S,S,R,R,S
+39,5513466,Dog,Skin swab,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,R,S
+40,5513549,Dog,Prostate gland abscess,,GP,Enterococcus faecium,R,,R,,R,,,,,S,*R,R,R,,,,,,R,,I,,,R,R,S
+41,5516881,Dog,Pappulocrustous lesion เคยได้ baytril/doxy/AMC จากการท้องเสีย BP,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+42,5516895,Dog,urine,catheterize,GP,Enterococcus faecalis (2.0x103 CFU/ml),S,,S,,R,,,,,S,R,R,R,,,,,,R,,S,,,*R,R,S
+43,5517804,Dog,urine,,GP,Enterococcus faecium (2.4x107 CFU/ml),R,,R,,R,,,,,S,R,R,R,,,,,,R,,I,,,R,R,S
+44,5517804,Dog,Exudate from wound,,GP,Streptococcus dysgalactiae ssp equisimilis,,S,S,S,,,,S,,,S,,,,,,S,S,,,,,,S,R,S
+45,5518730,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+46,5519218,Dog,Acralick pododermatitis,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,S,S,R,S,S
+47,5519285,Dog,Bloody exudate from pedal furunculosis,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,S,-,,,R,S,S,S,S,R,R,S
+48,5519658,Cat,fluid,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,I,R,,,,,,I,,S,,,R,R,S
+50,5520717,Dog,Deep exudate,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,S,S,S,R,S
+52,5520926,Dog,Interdigital cyst,,GP,Staphylococcus chromogenes,S,,R,,S,-,I,,S,S,R,I,R,S,I,-,,,S,S,S,R,S,S,R,S
+54,5601408,Dog,Crust from skin,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+55,5601778,Cat,wound,,GP,Methicillin-susceptible Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+56,5602091,Cat,Oral mass,,GP,Staphylococcus hominis ssp hominis or Staphylococcus saprohyticus,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+57,5602818,Dog,Abscess @ dorsal back,,GP,Staphylococcus warneri,S,,R,,S,-,S,,S,S,R,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+58,5604831,Dog,fluid,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+59,5604605,Dog,Sputum swab,,GP,Streptococcus sp.,,S,I,S,,,,S,,,S,,S,,,,S,S,,,,,,,R,S
+60,5605596,Cat,urine,,GP,Enterococcus faecium (9.2x104 CFU/ml),R,,R,,R,,,,,R,R,R,R,,,,,,R,,S,,,R,R,S
+61,5605713,Dog,Urine,,GP,Staphylococcus pseudintermedius (1.7x105 CFU/ml),S,,R,,S,-,S,,S,S,R,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+68,5607561,Dog,Pustule ฉีด Convenia -- > Not improve,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+69,5607561,Dog,Crust from skin,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+70,5607663,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,R,-,,,R,S,S,S,S,R,R,S
+71,5608059,dog,Rt. ear canal,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,R,S,R,+,,,R,,S,R,S,R,S,S
+73,5608743,Cat,wound exudate,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,R,R,S,R,-,,,R,,S,R,S,S,R,S
+74,5609004,Dog,urine,,GP,Staphylococcus pseudintermedius (> 1 x 105 cfu/mL),S,,R,,S,-,S,,S,S,R,R,R,S,I,-,,,R,S,S,S,S,R,R,S
+75,5609028,Dog,pustule,,GP,Staphylococcus chromogenes,S,,*R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+76,5609546,Dog,Pleural fluid,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,R,R,,,,,,R,,S,,,*R,R,S
+77,5609546,Dog,Abscess ที่หลัง,,GP,Streptococcus gallolyticus ssp pasteurianus,S,,S,,S,,,,S,S,,R,,,,,,,R,,S,,,R,R,S
+78,5610194,Dog,Wound @ dorsal back,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,I,R,S,S,-,,,R,S,S,R,S,S,R,S
+79,5610429,Dog,crust from skin // เคยกิน AMC  imrove Recur after pred,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,R,S,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+80,5611527,Dog,Wound @ ลำตัวด้านขวา,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,I,S,S,S,-,,,R,S,S,R,S,S,R,S
+81,5613768,Dog,ub mucosa,,GP,Enterococcus avium,I,,R,,R,,,,,R,R,R,R,,,,,,R,,S,,,S,R,S
+82,5614063,Dog,Exudate from wound,,GP,Staphylococcus schleiferi,R,,*R,,R,*+,R,,*R,S,R,R,R,S,R,-,,,R,,S,R,S,S,R,S
+83,5614161,Dog,Ear wax / pus,,GP,Streptococcus agalactiae,,S,S,S,,,,S,,,S,,S,,,-,S,S,,,,,,S,R,S
+84,5614252,Dog,Interdigital cyst,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+86,5615343,Cat,Urine,Cystocentesis,GP,Enterococcus faecalis (1.19x105 CFU/ml),S,,S,,R,,,,,R,R,R,R,,,,,,R,,S,,,R,R,S
+87,5615343,Cat,Urine,,GP,Unidentified Gram positive cocci (> 1 X 105 cfu/mL),,,,,,,,,,,,,,,,,,,,,,,,,,
+88,5617493,Dog,แผลโดนกัดที่หลัง,,GP,Staphylococcus pseudintermedius,S,,R,,R,+,I,,R,S,R,I,R,I,S,-,,,I,I,S,R,I,R,R,S
+89,5700245,Dog,wound,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+90,5700245,Dog,blood from hematoma,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,R,-,,,R,S,S,S,S,R,R,S
+91,5700340,Dog,Exudate from anal sac  gland,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,R,-,,,R,S,S,S,S,R,R,S
+93,5702002,Cat,urine,,GP,Staphylococcus auricularis (2.8x105 CFU/ml),S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+94,5702037,Dog,Abscess at Lt HL,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,R,S
+95,5702068,Cat,Pleural effusion,,GP,Staphylococcus schleiferi,R,,,,R,-,R,,S,S,R,R,R,S,R,+,,,R,R,S,R,S,S,R,S
+96,5703378,Dog,Wound at lumbar area,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,I,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+98,5704120,Dog,urine,Catheterization,GP,Staphylococcus pseudintermedius (2.7x104 CFU/ml),S,,R,,S,-,S,,S,R,S,S,R,S,S,+,,,S,S,S,S,S,R,R,S
+99,5704194,Cat,urine,Catheterization,GP,Staphylococcus saprophyticus (2.3 x 104 CFU/ml),R,,R,,R,+,R,,R,S,R,R,R,R,S,-,,,R,S,S,R,S,R,R,S
+101,5705158,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,S,R,S,I,-,,,S,S,S,S,S,R,R,S
+102,5705609,Dog,CSF,,GP,Staphylococcus hominis ssp hominis,*R,,*R,,R,+,R,,R,S,R,S,R,S,S,-,,,S,S,S,R,S,S,S,S
+103,5706033,Dog,Abdominal effusion,,GP,Staphylococcus hominis ssp hominis,S,,*R,,S,-,S,,S,S,S,S,R,*R,S,-,,,S,,S,S,S,S,S,S
+104,5706120,Dog,pust from deep pyoderma,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,S,R,S,R,-,,,S,,S,S,S,S,R,S
+105,5706217,Dog,Exudate from wound (fistular tract),,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,S,R,S,R,-,,,S,R,S,R,S,S,R,S
+107,5706217,Dog,Lt abscess ข้างหู,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,S,R,,,,,,S,,S,,,*R,R,S
+108,5706301,Dog,Abscess @ t FL,,GP,Streptococcus anginosus,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,,R,S
+109,5706301,Dog,abscess from Rt carpal,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,S,R,,,,,,S,,S,,,R,R,S
+110,5706357,Dog,urine,,GP,Staphylococcus pseudintermedius (2.1x105 CFU/ml),S,,R,,R,-,I,,S,S,R,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+111,5706357,Dog,Urine,Catheterization,GP,Enterococcus faecium (9.7x104 CFU/ml),R,,R,,R,,,,,S,R,R,I,,,-,,,R,,I,,,R,R,S
+113,5707231,Dog,gall bladder,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+114,5707731,Dog,Peritoneal effusion,,GP,Leuconostoc mesenteroides ssp cremoris,,,,,,-,,,,,,,,,,-,,,,,,,,,,
+116,5708925,Dog,Macules,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,R,-,,,S,S,S,S,S,R,R,S
+117,5709125,Dog,Blood exudate,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,I,R,S,R,-,,,R,S,S,R,S,S,R,S
+118,5709470,Dog,Abdominal effusion,,GP,Streptococcus dysgalactiae ssp equisimilis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+119,5710791,Dog,Fistular tract,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,R,S,R,-,,,R,R,S,S,S,R,R,S
+120,5711103,Dog,Right ear,,GP,Enterococcus raffinosus,S,,S,,R,,,,,S,R,I,R,,,,,,I,,I,,,*R,R,S
+122,5712130,Dog,Deep exudate,,GP,Streptococcus dysgalactiae ssp equisimilis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+123,5712500,Dog,folliculitis,,GP,Staphylococcus hominis ssp hominis,S,,*R,,R,-,I,,S,S,S,R,S,S,R,-,,,R,,S,R,S,R,S,S
+125,5713935,Dog,Abscess at neck,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,I,R,,,,,,I,,S,,,R,R,S
+126,5713997,Cat,Exudate from ear canal,,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+127,5714137,Dog,Lt.ear swab,,GP,Streptococcus canis,S,,,,S,,,,S,,,,,,,,,,,,,,,,,
+128,5714339,Dog,Fluid from ear canal,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+129,5714621,Dog,PG abscess,,GP,Unidentified gram positive cocci,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,5714959,Dog,Thoracic fluid,,GP,Staphylococcus aureus,S,,R,,S,-,I,,S,S,R,R,R,S,S,-,,,R,S,S,S,S,R,S,S
+132,5715824,Dog,pyoderma,,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+133,5715868,Cat,urine,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,R,R,,,,,,R,,S,,,R,R,S
+135,5717069,Dog,pustule,,GP,Staphylococcus xylosus,S,,S,,S,-,S,,S,S,S,S,I,S,S,-,,,S,,S,S,S,S,S,S
+139,5718270,Dog,Exudate (Pressure sore),,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+140,5710585,Dog,Skin swab from pappules กิน AMC มา 4 week Still have lesions,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+142,5801449,Dog,Chronic wound,,GP,Streptococcus dysgalactiae ssp equisimilis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,R,S
+146,5802585,Dog,Exudate from mass @Rt stifle,,GP,Staphylococcus chromogenes,S,,R,,S,-,I,,S,S,R,R,R,S,R,-,,,R,R,S,R,S,S,R,S
+148,5802893,Dog,Bite wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,I,R,S,I,-,,,S,S,S,R,S,R,R,S
+150,5803545,Dog,Epidermal collarette,,GP,Staphylococcus aureus,R,,R,,R,+,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+151,5804234,Dog,wound,,GP,Methicillin-resistant Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,I,S,S,S,-,,,R,S,S,R,S,S,R,S
+152,5804251,Dog,nasal swab,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,I,,S,R,S,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+153,5804251,Dog,nasal wash,,GP,Staphylococcus cohnii ssp unrealyticus,*R,,*R,,R,+,R,,*R,S,R,R,R,R,S,-,,,R,,S,R,S,S,R,S
+155,5805524,Dog,Od conjunctival swab,Cath.,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+156,5806114,Dog,Purulent exudate from furunculosis,,GP,Staphylococcus chromogenes,S,,*R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,,S,R,S,S,R,S
+158,5806719,Dog,Pustule Recurrent pyoderma,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,I,S,S,S,-,,,S,S,S,S,S,S,R,S
+159,5806719,Dog,Crust from skin,,GP,Staphylococcus pseudintermedius,S,,*R,,S,-,S,,S,S,S,I,S,S,S,-,,,S,S,S,S,S,S,R,S
+160,5807161,Dog,"Epidermal collerate  กิน AMC 
+---> not improve",,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,S,R,S,S,+,,,S,S,S,S,S,S,R,S
+161,5807521,Dog,,,GP,Staphylococcus chromogenes,S,,R,,S,-,S,,S,I,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+162,5807727,Dog,Abscess,,GP,Streptococcus sp.,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,,R,S
+163,5807776,Dog,Crust from skin,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+165,5809195,Dog,urinary,,GP,Staphylococcus pseudintermedius (1.2x105 CFU/ml),S,,R,,S,-,S,,S,R,R,R,R,S,R,-,,,R,S,S,S,S,R,R,S
+166,5809195,Dog,Rt. nasal mass,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,S,S,R,R,S,S,+,,,R,S,S,R,S,R,R,S
+167,5809820,Dog,exudate from perineal area,,GP,Enterococcus avium,S,,,,R,,,,,,,,,,,,,,R,,,,,,,
+170,5812140,Cat,Urine,,GP,Staphylococcus pseudintermedius or lugdunensis (>105 CFU/mL),S,,R,,R,-,I,,S,R,R,R,R,S,S,-,,,R,R,S,R,S,R,R,S
+171,5812427,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,R,S
+172,5812447,Dog,Abdominal Effusion,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,S,S,R,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+173,5812589,Dog,Fistular tract – left ear,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,R,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+174,5813194,Cat,"Bite wound, mild exudate",,GP,Unidentified gram-positive cocci,,,,,,,,,,,,,,,,,,,,,,,,,,
+175,5813914,Cat,urine,เก็บตัวอย่างระหว่างผ่าตัดแก้ไข ORS,GP,Staphylococcus hominis ssp hominis (Coagulase negative Staphyloccus),S,,R,,S,-,S,,S,S,R,R,R,I,I,-,,,R,,S,R,S,R,S,S
+176,5815186,Dog,Prostate gland fluid,,GP,Staphylococcus chromogenes,S,,*R,,S,-,S,,S,I,R,I,I,S,S,-,,,I,R,S,S,S,S,S,S
+177,5815272,Cat,Purulent discharge from bite wound,,GP,Streptococcus pseudoporcinus,S,,S,,I,,,,S,S,,S,,,,,,,S,,S,,,S,S,
+178,5815292,Dog,ear wax,,GP,Staphylococcus chromogenes,S,,*R,,S,-,I,,S,S,R,R,R,S,S,-,,,R,,S,R,S,S,R,S
+179,5816054,Dog,Pustule : not improve after AMC,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+180,5817054,Dog,Bite wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+181,5817054,Dog,Exudate from bite wound (abdominal cavity),,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+182,5817236,Dog,UB mucosa,,GP,Enterococcus faecium,S,,S,,R,,,,,S,R,R,R,,,-,,,R,,R,,,*R,R,S
+183,5817565,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,R,S,R,S,I,-,,,S,S,S,S,S,R,R,S
+184,5817723,Dog,UB mucosa,,GP,Staphylococcus chromogenes (Coagulase negative Staphylococcus),*R,,*R,,R,*+,R,,*R,S,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+185,5817831,Dog,Fluid from mass,,GP,Staphylococcus hominis ssp hominis,S,,*R,,R,-,I,,S,R,S,I,S,S,I,-,,,S,S,S,R,S,S,R,S
+186,5818224,Dog,Pustule,,GP,Staphylococcus aureus,S,,*R,,R,-,S,,S,R,R,R,R,S,I,-,,,R,S,S,R,S,S,R,S
+187,5900056,Dog,vaginal discharge,,GP,Staphylococcus cohnii ssp urealyticus,S,,R,,I,-,I,,S,S,R,S,R,R,S,-,,,S,,S,R,S,S,S,S
+188,5900120,Dog,Epidermal collarette,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+189,59000127,Dog,Wound at RHL,,GP,Streptococcus dysgalactiae ssp equisimilis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+190,5900127,Dog,wound at rt flank,,GP,Streptococcus dysgalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,
+191,5900196,Dog,ub mucosa,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+193,5900421,Dog,Exudate,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,S,S,S,S,-,,,S,S,S,S,S,R,R,S
+194,5900476,Dog,skin swab กิน Cepha--- > not improve,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,R,,S,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+195,5900527,Dog,Exudate from mass,,GP,Staphylococcus schleiferi,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+197,5900973,Dog,pus,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+198,5901100,Dog,Crust from skin,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+199,5901256,Dog,furunculosis,,GP,Staphylococcus schleiferi,S,,*R,,S,-,I,,S,S,R,I,R,S,S,-,,,S,R,S,R,S,S,R,S
+200,5901256,Dog,Crust from skin,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,R,R,R,S,S,-,,,R,,S,R,S,S,R,S
+201,5901260,Dog,Urine,Catheterization,GP,Staphylococcus pseudintermedius (2.4x106 CFU/ml),S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+203,5901483,Dog,wound,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,S,S,R,I,S,R,-,,,R,R,S,R,S,S,R,S
+204,5901596,Dog,Epidermal collarette,,GP,Staphylococcus pseuedintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+205,5901732,Dog,urine,cystocentesis,GP,Enterococcus faecalis (1.8x107 CFU/ml),S,,S,,S,,,,,R,R,R,R,,,,,,R,,S,,,R,R,S
+206,5902108,Dog,Pyoderma,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,R,R,R,S,S,-,,,R,S,S,S,S,R,R,S
+207,5902512,Dog,Deep pyoderma wound,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,R,R,S,S,-,,,R,R,S,R,S,S,R,S
+210,5903651,Cat,Urine,,GP,Corynebacterium spp. (>105 CFU/mL),,,,,,,,,,,,,,,,,,,,,,,,,,
+211,5903808,Dog,Rt. Otic exudate,,GP,Staphylococcus schleiferi,R,,R,,R,+,R,,R,S,R,R,R,S,R,-,,,R,R,S,R,S,S,R,S
+213,5904136,Cat,Rt nasal discharge,,GP,Staphylococcus hominis ssp hominis,S,,S,,S,-,S,,S,S,*R,S,*R,S,S,+,,,S,,S,S,S,S,R,S
+214,5904550,Dog,urine,,GP,Staphylococcus pseudintermedius (1.45x105 CFU/ml),S,,R,,R,-,I,,S,R,R,R,R,S,S,-,,,R,S,S,R,S,S,R,S
+215,5904550,Dog,urine,cystocentesis,GP,Low discrimination between Staphylococcus aureus/Staphylococcys pseudintermedius (2.1x106 CFU/ml),R,,*R,,R,-,I,,I,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+216,5904860,Dog,swab from skin,,GP,Staphylococcus pseudintermedius or Staphylococcus aureus,S,,R,,S,-,S,,S,S,S,S,S,S,R,-,,,S,S,S,S,S,R,R,S
+217,5905056,Cat,wound,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,S,I,S,S,S,-,,,S,,S,R,S,S,R,S
+218,5905301,Dog,Fluid from abscess,,GP,Staphylococcus aureus,S,,R,,S,-,S,,S,R,S,I,R,S,S,-,,,S,S,S,S,S,R,R,S
+219,5905524,Cat,urine + foley,,GP,Kocuria varians,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,5905791,Dog,ปัสสาวะ,,GP,Staphylococcus pseudintermedius (7.9x104 CFU/ml),S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+221,5905802,Dog,Nasal swab,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,R,S,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+222,5906034,Cat,Chronic wound,,GP,Staphylococcus schleiferi,R,,R,,R,+,R,,S,S,R,R,R,S,I,-,,,R,R,S,R,S,S,R,S
+223,5906034,Cat,Exudate from wound (Fistula) แผลใหม่ปะทุ แผลเก่าเป็น chronic fistula,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+224,5906034,cat,Chronic wound (fistular tract),,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,I,S,S,S,-,,,S,,S,R,S,S,R,S
+225,5906034,Cat,Chronic infection wound,,GP,Streptococcus agalactiae / Streptococcus pyogenes),,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+226,5906380,Dog,Exudate from wound ใต้คอ,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,S,R,S,I,-,,,S,S,S,S,S,R,R,S
+227,5906398,Cat,Wound at rt foot pad,,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+228,5906744,Dog,abscess from Rt spermatic cord,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+229,5906972,Dog,"ห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN 5906972 Clinician น.สพ.นวัต
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN 5906972 Clinician น.สพ.นวัต
+----media/image1.png----
+	ข้อมูลการส่ง และประวัติของตัวอย่าง
+Date of sample collection
+17 Jan 2017
+Date of submission
+17 Jan 2017
+Owner
+สุวรรณ สุวรรณกูฏ
+Patient
+ยูริ
+Species
+Dog
+Breed
+Pomeranian
+Sex
+Female
+Birth date
+13 December 2010
+1)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+ปัสสาวะ",,GP,Methicillin-resistant Staphylococcus aureus,,,,,,,,,,,,,,,,,,,,,,,,,,
+231,5907071,Dog,Deep pyoderma,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,R,S,R,R,S,R,+,,,R,S,S,R,S,S,R,S
+232,5907114,Cat,Exudate from wound,,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+234,5907189,Dog,wound,,GP,Staphylococcus pseudintermedius,S,,R,,I,-,I,,S,R,S,S,R,S,R,-,,,S,S,S,R,S,R,R,S
+235,5907267,Dog,Pyogranulomatous infection,,GP,Staphylococcus chromogenes,S,,*R,,S,-,I,,S,S,S,I,S,S,S,-,,,S,,S,R,S,S,S,S
+236,5907495,Dog,underneath epidermal collerate,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+237,5907798,Dog,UB mucosa (cystic calculi),,GP,Streptococcus dysgalactiae ssp equisimilis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+238,5907974,Dog,Purulent exudate,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,S,,,,,,R,,S,,,*R,S,S
+241,5908420,Dog,Soft tissue around the osteotomy,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+242,5908424,Dog,Recurrent pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+243,5908424,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+244,5908479,Dog,Exudate from wound,,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+245,5908535,Dog,Void urine,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,R,S
+246,5908654,Dog,Ub mucosa,,GP,Lactococcus garvieae,,,,,,,,,,,,,,,,,,,,,,,,,,
+247,5908743,Dog,UB mucosa,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,R,R,S,R,R,S,S,-,,,R,S,S,R,S,S,R,S
+248,5908743,Dog,urine,Cystocentesis,GP,Staphylococcus aureus (7.3x106 CFU/ml),S,,R,,I,-,I,,S,I,R,R,R,S,S,-,,,R,S,S,R,S,S,R,S
+249,5908748,Cat,Pleural effusion,,GP,Staphylococcus kloosii,S,,R,,S,-,S,,S,S,S,S,S,I,S,-,,,S,,S,R,S,S,S,S
+250,5908998,Dog,Abdominal fluid,,GP,Staphylococcus kloosii,R,,R,,R,+,R,,R,S,S,S,I,I,S,-,,,S,S,S,R,S,S,R,S
+253,5909245,Dog,Pustule : เคยตรวจพบ MDR sens กับ Sulfa แล้ว improve ตอนนี้ Recurrent,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,S,S,S,S,-,,,S,S,S,S,S,R,R,S
+254,5909573,Dog,Folliculitis not response to Rilexin,,GP,Staphylococcus schleiferi,R,,R,,R,*+,R,,R,S,R,R,R,S,R,-,,,R,R,S,R,S,S,R,S
+255,5909637,Dog,Urine,Catheterization,GP,Staphylococcus pseudintermedius (>1x105 cfu/mL),S,,R,,S,-,S,,S,S,S,R,I,S,R,-,,,R,S,S,S,S,S,R,S
+256,5909704,Dog,Epidermal collarets,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,R,R,R,S,R,-,,,R,S,S,S,S,S,R,S
+257,5910238,Dog,Epidermal collarette,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+259,5910425,Cat,Urine,,GP,Corynebacterium spp,,,,,,,,,,,,,,,,,,,,,,,,,,
+260,5910615,Dog,Exudate from Kerion Lesion,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+261,5910615,Dog,Crust : wisky,,GP,Staphylococcus schleiferi,S,,*R,,R,-,S,,S,S,R,I,R,S,R,+,,,R,R,S,R,S,S,S,S
+262,5910615,Dog,Folliculitis :Z-Ew,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+263,5910989,Dog,Pustule : Zaza,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+264,5910989,Dog,Crust from skin//ปีโก้,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,R,R,S
+265,5910989,Dog,Epidermal collerat : กิน AMC not improve,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,R,S,S
+266,5911025,Dog,Exudate from skin,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,R,R,S
+267,5911522,Dog,Discharge from pododermatitis,,GP,Staphylococcus schleiferi,R,,R,,R,+,R,,R,S,R,R,R,S,S,-,,,R,R,S,R,S,S,R,S
+268,5911718,Dog,Skin crust (DDx.Pyoderma),,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+270,5912438,Dog,abscess,,GP,Streptococcus dysagalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,
+272,5912657,Dog,Deep pyoderma - pus,,GP,Staphylococcus schleiferi,S,,*R,,S,-,I,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+274,5912869,Cat,wound,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+276,5913009,Cat,urine,,GP,Non or low reactive biopattern (gram-positive cocci) 2.3 x 105CFU/ml ทำครั้งที่ 2,,,,,,,,,,,,,,,,,,,,,,,,,,
+277,5913009,Cat,urine,,GP,Non or low reactive biopattern (gram-positive cocci) 2.3 x 105CFU/ml ทำครั้งที่ 2,,,,,,,,,,,,,,,,,,,,,,,,,,
+278,5913009,Cat,urine,,GP,Unidentified gram-positive cocci (2.3 x 105CFU/ml) (repeat),,,,,,,,,,,,,,,,,,,,,,,,,,
+279,5913232,Dog,Surgical site (Bone fracture),,GP,Staphylococcus epidermidis,S,,R,,S,-,S,,S,S,R,S,R,S,S,-,,,S,S,S,S,S,S,S,S
+280,5913324,Dog,pustule,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,S,R,S,S,+,,,S,R,S,S,S,S,R,S
+283,5914717,Cat,Nasal swab,Cath.,GP,Staphylococcus caprae,S,,*R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+285,5914845,Dog,Bite wound,,GP,Staphylococcus auricularis,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+287,5915353,Dog,Right ear wax,,GP,Staphylococcus chromogenes,S,,*R,,S,-,S,,S,I,S,R,S,S,S,-,,,R,,S,S,S,S,R,S
+288,5915667,Dog,wound,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,S,S,R,R,S,S,+,,,R,S,S,R,S,R,R,S
+289,5915745,Dog,Exudate,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,R,S,R,R,S,R,-,,,R,R,S,R,S,R,R,S
+290,5916204,Cat,urine,Catheterization,GP,Kocuria varians (> 1X 105 cfu/mL),,,,,,,,,,,,,,,,,,,,,,,,,,
+291,5916314,Dog,Right ear flush,,GP,Staphylococcus schleiferi,S,,,,R,-,I,,S,S,S,R,R,S,R,-,,,R,R,S,R,S,S,R,S
+292,5916343,Dog,Exudate from bite wound,,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,
+293,5916360,Dog,Folliculitis not improve after Cephalexin,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,S,R,S,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+294,5916535,Dog,Crust from skin,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+295,5916631,Dog,Abscess at ventral thorax,,GP,Staphylococcus schleiferi,R,,R,,R,-,R,,R,S,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+296,5917069,Dog,Fluid,,GP,Staphylococcus warneri,S,,R,,S,-,S,,S,S,R,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+297,5917208,Dog,urine culture from ub catheterization,Catheterization,GP,Staphylococcus pseudintermedius (4 x 103 CFU/ml),S,,R,,I,-,I,,S,S,R,R,R,S,I,-,,,R,,S,R,S,R,R,S
+298,5917276,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+300,5917470,Dog,Purulent exudate from ulcer,,GP,Staphylococcus capitis,S,,S,,S,-,S,,S,S,I,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+301,5917829,Cat,Pleural effusion (pyothorax),,GP,Corynebacterium spp. (ไม่มีผลจากVITEKค่ะ เป็นผลวางดิสก์ยาค่ะ),,,,,,,,,,,,,,,,,,,,,,,,,,
+302,5918113,Dog,ear mass,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,I,R,S,R,-,,,R,S,S,R,S,R,S,S
+303,5918126,Dog,Injection-site abscess/nodule,,GP,Staphylococcus aureus,*R,,*R,,R,+,R,,*R,S,R,R,S,S,I,-,,,R,S,S,R,S,R,R,S
+304,5918317,Dog,Fluid from perineal cyst,,GP,Staphylococcus chromogenes,S,,*R,,S,-,S,,S,S,S,I,S,S,S,-,,,R,S,S,R,S,S,R,S
+305,5918543,Dog,UB mucosa,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+306,5918669,Dog,crust from skin,,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+308,5918907,Dog,abscess from MCT mass,,GP,Staphylococcus schleiferi,S,,S,,S,-,S,,S,S,R,S,R,S,S,-,,,S,,S,S,S,S,R,S
+309,5918925,Dog,Chronic furunculosis,,GP,Staphylococcus chromogenes,S,,*R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,,S,R,S,S,R,S
+312,5919245,Dog,Bloody urine,,GP,Staphylococcus pseudintermedius,S,,R,,R,+,R,,S,S,R,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+313,5919315,Cat,Abdominal fluid,,GP,Streptococcus pseudoporcinus,,S,S,S,,,,S,,,S,,S,,,-,S,S,,,,,,S,R,S
+314,5919326,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+316,5919407,Cat,Lt. Ear Swab (Chronic otitis externa),,GP,Staphylococcus aureus,S,,R,,S,-,I,,S,R,R,I,R,S,R,-,,,R,R,S,S,S,R,R,S
+317,5919424,Dog,Wound,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,R,R,R,S,R,-,,,R,,S,R,S,S,R,S
+318,5919424,Dog,Lt ear canal,,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,
+319,5919440,Dog,urine,,GP,Enterococcus faecium (5.3x106 CFU/ml),R,,R,,R,,,,,S,R,R,R,,,,,,R,,I,,,R,R,S
+322,5919828,Dog,Exudate from LT ear,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,R,R,S,I,-,,,R,S,S,R,S,S,S,S
+324,5919828,Dog,Ear swab,,GP,Staphylococcus schleiferi,R,,*R,,R,*+,R,,R,S,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+325,5920034,Dog,abscess,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+326,5920176,Cat,purulent exudate (surgical site),,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,
+328,5920187,Dog,bile,,GP,Streptococcus mitis/Streptococcus oralis,R,,S,,R,,,,R,S,,I,,,,,,,I,,S,,,S,I,
+329,5920232,Dog,urine,,GP,Staphylococcus pseudintermedius (6.8 x 106 CFU/ml),S,,R,,S,-,S,,S,S,R,R,R,S,I,-,,,R,,S,S,S,R,S,S
+330,5920384,Dog,urine,Catheterization,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,R,R,S
+331,5920478,Dog,Pustule,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,I,S,S,S,-,,,S,S,S,R,S,S,S,S
+333,6000037,Cat,wound exudate,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,R,R,,,,,,R,,S,,,*R,R,S
+334,6000081,Dog,Exudate from fistular ตำแหน่งที่ผ่าตัดขาหลังขวา,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,I,S,S,I,-,,,S,S,S,S,S,R,S,S
+335,6000087,Dog,หนองใน testis,,GP,Enterococcus columbae,,,,,,,,,,,,,,,,,,,,,,R,,,,
+336,6000104,Dog,exudate from wound,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,R,,S,R,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+338,6000104,Dog,Exudate from mass,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+339,6000128,Cat,Open hernia,,GP,Staphylococcus aureus,S,,*R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+340,6000129,Cat,wound,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,S,R,,,,,,S,,S,,,*R,R,S
+341,6000137,Dog,nasal discharge,,GP,Staphylococcus chromogenes,S,,R,,S,-,S,,S,S,S,R,S,*R,S,-,,,R,,S,R,S,S,R,S
+342,6000176,Dog,Pus from inguinal wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,S,-,,,R,S,S,S,S,R,R,S
+343,6000271,Cat,exudate from open wound,,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+344,6000365,Dog,UB mucosa,,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,,,,,
+345,6000388,Dog,urine,,GP,Staphylococcus pseudintermedius (1x103 CFU/ml),S,,R,,R,-,R,,S,R,R,R,R,S,I,-,,,R,R,S,R,S,R,R,S
+346,6000430,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+348,6000480,Dog,urine,Cystocentesis,GP,Staphylococcus aureus (2.9 x 105 CFU/ml),S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+351,6000527,Cat,urethral mucosa,,GP,Enterococcus faecium,R,,R,,R,,,,,S,*R,R,R,,,,,,R,,S,,,R,R,S
+352,6000551,Dog,Epidermal collerat: กิน Doxy จาก onco + Baytril จาก Nephro,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,I,-,,,S,,S,S,S,R,R,S
+355,6000659,Dog,abscess,,GP,Streptococcus pneumoniae,,,S,S,,,,S,,,R,,*R,,,,S,S,,,,,,I,S,S
+356,606767,Dog,Surgical site (medial),,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,S,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+357,6000707,Dog,pyoderma,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,R,R,R,S,R,-,,,R,R,S,S,S,R,R,S
+358,6000707,Dog,Right ear,,GP,Staphylococcus chromogenes,*R,,*R,,R,*+,R,,*R,S,R,R,R,S,R,-,,,R,,S,R,S,S,R,S
+359,6000716,Dog,Pyoderma (exudate from papule),,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+361,6000838,Cat,"ห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN 6000838 Clinician สพ.ญ.ศิริลักษณ์
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN 6000838 Clinician สพ.ญ.ศิริลักษณ์
+----media/image1.png----
+	ข้อมูลการส่ง และประวัติของตัวอย่าง
+Date of sample collection
+15 Jan 2017
+Date of submission
+15 Jan 2017
+Owner
+สุชาวดี ยงวัฒนสกุล
+Patient
+กาฟิวส์
+Species
+Cat
+Breed
+Mixed breed
+Sex
+Male
+Birth date
+Year 2007
+1)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Abcess",,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,
+364,6000938,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,S,,S,R,S,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+366,6000990,Dog,UB mucosa,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,R,I,,,,,,R,,S,,,*R,R,S
+367,6000990,Dog,urine,catheterization,GP,Enterococcus faecalis (1.1x107 CFU/ml),S,,S,,R,,,,,S,R,R,I,,,,,,R,,S,,,*R,R,S
+368,6000992,Dog,ub mucosa and renal calculi,,GP,Enterococcus faecium,R,,R,,R,,,,,S,*R,R,I,,,,,,R,,S,,,R,R,S
+369,6001012,Dog,Pustule กิน cepha 4 week slightly improve still have pustule,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,R,,S,R,S,R,R,S,R,-,,,R,R,S,R,S,R,R,S
+370,6001064,Dog,Wound @ caudal of Rt ear base,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,I,S,,,,,,S,R,S
+371,6001186,Dog,Folliculitis//bloody exudate,,GP,Staphylococcus pseudintermedius,S,,R,,I,-,I,,S,S,S,R,S,S,I,-,,,R,S,S,R,S,R,R,S
+372,6001233,Dog,"ห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN 6001233 Clinician สพ.ญ.วริสรา
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN 6001233 Clinician สพ.ญ.วริสรา
+----media/image1.png----
+	ข้อมูลการส่ง และประวัติของตัวอย่าง
+Date of sample collection
+27 Jan 2017
+Date of submission
+27 Jan 2017
+Owner
+มิรินกานต์ ชุติวัตนิภานิตย์
+Patient
+น้ำหวาน
+Species
+Dog
+Breed
+Shih Tzu
+Sex
+Female
+Birth date
+Year 2016
+1)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+UB mucosa",,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,
+373,6001274,Dog,UB mucosa,,GP,Staphylococcus haemolyticus,S,,R,,S,-,S,,S,S,S,R,R,S,S,-,,,R,,S,S,S,R,R,S
+374,6001277,Dog,UB mucosa,,GP,Enterococcus casseliflavus,S,,S,,R,,,,,S,R,I,I,,,,,,R,,S,,,*R,R,*R
+375,6001301,Dog,peritoneal fluid,,GP,Staphylococcus cohnii ssp urealyticus,*R,,*R,,R,+,R,,*R,S,S,S,S,I,S,-,,,S,,S,R,S,S,S,S
+376,6001306,Cat,abdominal fluid,,GP,Kocuria kristinae (เลือก coagulase negative staphylococcus),,,,,,-,,,,,,,,,,,,,,,,,,,,
+378,6001370,Dog,UB mucosa,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,R,S,R,-,,,R,R,S,R,S,R,R,S
+381,6001479,Dog,discharge in perineum and abdominal wall,,GP,Enterococcus faecium,S,,S,,R,,,,,S,R,S,S,,,,,,S,,S,,,*R,S,S
+382,6001511,Dog,Folliculitis,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,I,S,I,-,,,R,S,S,R,S,S,R,S
+385,6001555,Dog,nasal mucous ที่ค้างปลายสาย nasal O2,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,R,,S,R,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+386,6001555,Dog,Pustule // pedal furunculosis,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,,S,R,S,S,R,S
+387,6001575,Dog,exudate from wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+388,6001595,Dog,urine culture from catheter,-,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,S,R,R,R,S,I,-,,,R,S,S,R,S,S,R,S
+389,6001626,Cat,Urine,Catheterization,GP,Enterococcus faecium,R,,R,,R,,,,,S,R,R,I,,,,,,R,,S,,,R,R,S
+390,6001699,Dog,Abscess at lt cervical mass : open wound,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,R,S
+391,6001762,Dog,pyoderma,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+392,6001792,Dog,Cervical stump fluid,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,S,,,,,,R,,S,,,*R,R,S
+395,6001948,Dog,ub mucosa,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,S,S,,,,,,S,,S,,,S,S,S
+397,6002001,Dog,Rt. ear exudate,,GP,Streptococcus canis (เลือก Streptococcus agalactiae),S,,,,S,,,,S,,,,,,,,,,,,,,,,,
+398,6002070,Dog,Pus from rt cervical mass,,GP,Staphylococcus auricularis,R,,,,R,-,R,,S,S,S,R,I,S,R,+,,,R,,S,R,S,S,R,S
+400,6002149,Cat,Exudate from open wound,,GP,Streptococcus dysgalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,
+401,6002153,Dog,Crust from skin//not improve with AMC,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,I,R,S,I,-,,,S,S,S,R,S,S,R,S
+402,6002229,Dog,pustule,,GP,Staphylococcus schleiferi,*R,,*R,,R,*+,R,,*R,S,S,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+403,6002266,Dog,Surgical site,,GP,Coagulase-negative staphylococci,R,,R,,R,+,R,,R,S,S,I,S,S,S,-,,,S,,S,R,S,S,S,S
+404,6002269,Exotic,Exudate from lt lumbar,,GP,Staphylococcus xylosus,S,,R,,S,-,I,,S,S,S,S,S,S,S,-,,,S,S,S,R,S,S,S,S
+406,6002418,Cat,wound at elbow,,GP,Streptococcus constellatus ssp pharynges,S,,,,S,,,,S,,,,,,,,,,,,,,,,,
+407,6002453,Cat,หนองจากใต้เท้าหน้า,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,I,,S,,,*R,S,S
+408,6002453,Cat,abscess from wound หลังเท้าขวา,,GP,Staphylococcus epidermidis,S,,*R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+410,6002552,Cat,Exudate,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,R,S,R,S,S,-,,,S,S,S,S,S,S,S,S
+411,6002552,Cat,Exudate from chronic wound,,GP,Streptococcus constellatus ssp constellatus,,S,S,S,,,,S,,,R,,R,,,,S,S,,,,,,,R,S
+412,6002552,Cat,Opened wound at lumbar,,GP,Staphylococcus schleiferi,*R,,*R,,R,-,R,,*R,S,S,R,R,S,R,-,,,R,,S,R,S,S,R,S
+413,6002560,Dog,open hernia,,GP,Staphylococcus warneri,S,,*R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+414,6002692,Dog,Pustule//กิน AMC Not improve,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+415,6002711,Dog,mam gl. abscess,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,I,S,S,S,-,,,S,S,S,S,S,R,R,S
+417,6002851,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,I,R,S,I,-,,,S,S,S,S,S,S,R,S
+418,6002872,Dog,UB mucosa,,GP,Enterococcus faecium,R,,R,,R,,,,,S,R,R,R,,,,,,R,,S,,,R,R,S
+421,6002902,Dog,Folliculitis // Bloody exudate,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,R,S,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+422,6002945,Dog,pus from surgical site,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,I,S,S,R,-,,,R,S,S,R,S,R,R,S
+423,6002966,Dog,Skin abscess,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,R,R,,,,,,R,,S,,,*R,R,S
+425,6003218,Dog,Deep pyoderma,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+426,6003264,Dog,"แผลที่ข้อศอก (deep pyoderma) cyto : cocci0-1cell,neutrophil>25,Eosino 5-10, macro 1-2 cell/OIF",,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,,S,R,R,R,S,R,-,,,R,R,S,R,S,R,R,S
+428,6003282,Dog,Epidermal collarette,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+429,6003362,Dog,Right nasal mucosa,,GP,Unidentified gram-positive bacteria,,,,,,,,,,,,,,,,,,,,,,,,,,
+430,6003402,Dog,Purulent abscess,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+431,6003410,Cat,surgical wound,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,,S,S,S,S,R,S
+432,6003415,Cat,Exudate from root canal 104,,GP,Kocuria rosea,,,,,,,,,,,,,,,,,,,,,,,,,,
+435,6003575,Dog,Abscess wound (lumba area),,GP,Staphylococcus cohnii ssp cohnii,S,,*R,,S,-,S,,S,S,R,S,I,I,S,-,,,S,S,S,R,S,S,S,S
+436,6003575,Dog,Ub mucosa,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,S,R,S,R,-,,,S,S,S,R,S,R,R,S
+437,6003575,Dog,Epidermal collarette,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,R,S,S,R,S,R,-,,,S,S,S,R,S,R,R,S
+438,6003586,Cat,exudate from wound,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+439,6003586,Cat,wound,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+440,6003677,Dog,Exudate at necrotic wound,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+441,6003682,Dog,Pancreatic fluid,,GP,Staphylococcus auricularis,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+443,6003910,Dog,pustule,,GP,Staphylococcus pseudinternedius,S,,R,,S,-,S,,S,R,S,R,R,S,I,-,,,R,S,S,S,S,R,R,S
+445,6004166,Dog,Wound @ rt tarsal jt,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,S,-,,,R,S,S,S,S,S,R,S
+446,6004174,Dog,Left ear canal,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,S,S,S,R,S,R,+,,,S,S,S,R,S,R,R,S
+447,6004214,Cat,Open wound (Bone fx),,GP,Coagulase-negative Staphylococcus sp.,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+449,6004335,Dog,"Hemoabdomen, peritonitis",,GP,Staphylococcus hominis,*R,,*R,,R,+,*R,,*R,S,R,S,S,S,S,-,,,S,,S,R,S,R,S,S
+450,6004381,Dog,Bite wound,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,I,R,,,,,,I,,S,,,R,R,S
+451,6004464,Dog,exudate from wound,,GP,Staphylococcus chromogenes (coagulase negative Staphylococcus),*R,,*R,,R,*+,R,,*R,S,*R,R,R,S,I,+,,,R,,S,R,S,S,R,S
+453,6004495,Dog,Purulent exudate (แผลกดทับ),,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+455,6004512,Dog,Exudate at RFL,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+457,6004533,Dog,Otitis externa (Lt.),,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+458,6004575,Dog,wound,,GP,Staphylococcus hominis ssp hominis,R,,R,,R,+,R,,R,S,*R,I,R,S,S,+,,,S,,S,R,S,S,S,S
+459,6004643,Dog,pus interdigit 4-5 of Left fore limb,,GP,Staphylococcus lugdunensis (coagulase negative Staphylococcus),*R,,*R,,R,+,R,,*R,S,S,R,S,S,I,-,,,R,,S,R,S,R,R,S
+462,6004797,Dog,urine,cystocentesis,GP,Staphylococcus pseudintermedius (3.17x105 CFU/ml),S,,R,,R,-,R,,S,R,R,R,R,S,I,-,,,R,S,S,R,S,S,R,S
+463,6004829,Cat,Chronic wound,,GP,Staphylococcus aureus,*R,,*R,,I,+,R,,*R,S,R,R,S,S,R,-,,,R,S,S,R,S,R,R,S
+464,6004947,Dog,fat,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+465,6005112,Cat,Wound,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,I,S,S,S,-,,,S,,S,R,S,S,R,S
+466,6005114,Dog,Abdominal effusion,,GP,Streptococcus constellatus ssp pharyngis,,,,,,,,,,,,,,,,,,,,,,,,,,
+467,6005117,Dog,Exudate from LN,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+468,6005149,Dog,Abdominal effusion,,GP,Staphylococcus aureus,*R,,*R,,R,+,*R,,*R,S,R,R,S,S,I,-,,,R,S,S,R,S,R,R,S
+469,6005229,Cat,urine,,GP,Leuconostoc mesenteroides ssp cremoris,,,,,,,,,,,,,,,,,,,,,,,,,,
+470,6005285,Cat,urine,,GP,Enterococcus faecium (1.4 x 105 CFU/ml),R,,R,,R,,,,,R,*R,R,I,,,,,,R,,I,,,R,R,S
+472,6005355,Dog,Ear exudate,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,R,R,R,S,S,-,,,R,R,S,R,S,S,R,S
+473,6005430,Dog,Urine,catheterization,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+474,6005446,Dog,abscess,,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,
+475,6005548,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+476,6005645,Dog,Pustule : ใช้ cephalexin 7 week Still have new lesion,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,R,-,,,S,S,S,S,S,R,R,S
+477,6005645,Dog,papules,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,R,R,S
+478,6005701,Cat,Left ear canal turbinate,,GP,Streptococcus dysgalactiae ssp dysgalactiae,,,,,,,,,,,,,,,,,,,,,,,,,,
+479,6005786,Dog,Prostatic abscess,,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,R,,,,
+480,6006051,Dog,Peritoneum,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,S,S,R,S,S,R,-,,,R,S,S,R,S,R,R,S
+482,6006060,Dog,folliculitis,,GP,Streptococcus dysgalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,
+483,6006066,Cat,Pleural effusion,,GP,Staphylococcus epidermidis กับ Staphylococcus hominis ssp hominis,S,,R,,S,-,S,,S,S,R,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+485,6006181,Cat,pleural fluid,,GP,Erysipelothrix rhusiopathiae,,,,,,,,,,,,,,,,,,,,,,,,,,
+487,6006435,Cat,Peritoneal fluid,,GP,Staphylococcus aureus,S,,*R,,S,-,S,,S,R,S,S,R,S,I,-,,,S,S,S,R,S,R,R,S
+488,6006524,Dog,Wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,R,R,S
+489,6006724,Dog,Pus skin แผลผ่าตัด,,GP,Enterococcus casseliflavus / Enterococcus gallinarum,S,,S,,R,,,,,S,R,I,S,,,,,,I,,S,,,*R,S,*R
+490,6006767,Dog,Swab from surgical wound,,GP,Staphylococcus pseudintermedius,S,,R,,R,+,R,,R,R,R,R,R,S,R,-,,,R,I,S,R,S,S,R,S
+491,6006767,Dog,screw,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,R,R,S
+492,6006767,Dog,Surgical correction (lateral),,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+493,6006841,Cat,Wound at L HL,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,*R,I,I,,,,,,S,,S,,,*R,R,S
+494,6006913,Dog,Fluid ในหูชั้นกลาง,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,S,R,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+495,6006913,Dog,Rt ear exudate,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,S,R,R,S,I,-,,,R,,S,R,S,S,R,S
+497,6007003,Dog,urine,,GP,Unidentified gram-positive cocci (1.4x104 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,
+498,6007003,Dog,urine,Cystocentesis,GP,Gram positive cocci bacteria (2x104 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,
+499,6007034,Dog,open wound @rt perianal mass,,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,
+500,6007045,Dog,Wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+501,6007241,Dog,Opened wound @ rt shoulder,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,S,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+502,6007300,Dog,Urine,Catheterization,GP,Staphylococcus pseudintermedius (1.8x105 CFU/ml),S,,R,,S,-,S,,S,R,S,R,R,S,I,-,,,R,S,S,S,S,R,R,S
+503,6007346,Dog,Fistular tract,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,R,S,R,R,S,S,-,,,R,R,S,R,S,R,R,S
+504,6007346,Dog,Abscess at left inguinal area,,GP,Staphylococcus saprophyticus,S,,R,,R,-,R,,S,S,R,S,R,R,S,+,,,S,S,S,R,S,R,S,S
+505,6007346,Dog,Peritoneal effusion,,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,S,,,,
+506,6007375,Dog,Exudate from both ear,,GP,Staphylococcus schleiferi,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+507,6007461,Dog,Exudate from mass,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,R,-,,,S,S,S,S,S,R,R,S
+508,6007534,Cat,Exudate (abscess),,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+509,6007567,Dog,Epidermal collarette,,GP,Low discrimination,S,,*R,,S,-,S,,S,R,R,S,R,S,S,-,,,S,S,S,S,S,R,R,S
+511,6007758,Cat,Purulent จากเหงือกรูเขี้ยวด้านหน้าล่าง,,GP,Pasteurella canis,,,,,,,,,,,,,,,,,,,,,,,,,,
+512,6007856,Dog,wound,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+513,6007972,Cat,Exudate from mass,,GP,Streptococcus canis (เลือก Streptococcus agalactiae),S,,S,,S,,,,S,S,,S,,,,,,,S,,S,,,S,S,S
+514,6008007,Cat,Wound @ Rt FL,,GP,Staphylococcus caprae,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+515,6008054,Dog,Renal pelvis,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+517,6008167,Cat,wound,,GP,Streptococcus dysagalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,
+518,6008198,Dog,Exudate from pyoderma,,GP,Staphylococcus chromogenes,S,,*R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,,S,R,S,S,S,S
+519,6008236,Dog,Fresh tissue from wound,,GP,Staphylococcus aureus,*R,,*R,,R,+,R,,*R,R,R,R,S,S,I,-,,,R,S,S,R,S,R,R,S
+520,6008257,Dog,Urine,Cystocentesis,GP,Staphylococcus pseudintermedius (2.83x105 CFU/ml),S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+523,6008359,Dog,Exudate from Testis,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+524,6008412,Cat,Lt. nasal mucosa,,GP,Staphylococcus cohnii ssp cohnii,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+525,6008494,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,S,S,S,S,S,I,-,,,S,S,S,R,S,S,R,S
+526,6008494,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+527,6008496,cat,Abdominal cavity,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+528,6008518,Dog,wound,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+529,6008561,Dog,Abdominal effusion,,GP,Kocuria rosea,,,,,,,,,,,,,,,,,,,,,,,,,,
+530,6008569,Dog,Fistular tract,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,S,S,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+531,6008569,Dog,,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,R,S,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+532,6008571,Dog,wound,,GP,Streptococcus suis,,S,I,S,,,,S,,,R,,R,,,,R,S,,,,,,,R,S
+533,6008579,Dog,Bloody exudate from furunculosis,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,R,R,S,S,-,,,R,,S,R,S,S,R,S
+534,6008662,Cat,urine,,GP,Unidentified Gram positive cocci (> 1x105 cfu/mL),,,,,,,,,,,,,,,,,,,,,,,,,,
+535,6008862,Cat,UB mucosa,,GP,Unidentified gram positive cocci,,,,,,,,,,,,,,,,,,,,,,,,,,
+536,6008864,Cat,abscess,,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,
+537,6008895,Dog,pus,,GP,Streptococcus dysgalactiae,,,,S,,,,S,,,,,S,,,,R,S,,,,,,S,R,S
+538,6008907,Cat,wound,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,R,,S,,,R,S,S
+539,6008917,Dog,Screw (infection-osteomyelitis),,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,S,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+540,6008948,Cat,หนองจากแผลที่หลัง,,GP,Enterococcus durans,S,,S,,S,,,,,S,R,S,S,,,,,,S,,I,,,S,R,S
+541,6008948,Cat,หนองจากแผลที่หลัง,,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,
+542,6008990,Dog,wound,,GP,Staphylococcus caprae,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,R,S
+543,6009025,Dog,pus,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+544,6009099,Dog,Red papule,,GP,Staphylococcus pseudintermedius,S,,R,,R,+,R,,S,S,S,R,S,S,R,-,,,R,S,S,R,S,R,R,S
+546,6009183,Dog,Exudate from surgical drain,,GP,Staphylococcus hyicus,S,,*R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+548,6009341,Dog,Fistular tract and screw,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+549,6009341,Dog,Surgical site,,GP,Staphylococcus cohnii ssp urealyticus,*R,,*R,,R,+,R,,*R,I,R,S,R,*R,S,-,,,S,,S,R,S,R,R,S
+550,6009350,Dog,exudate,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+551,6009379,Dog,Thoracic cavity,,GP,Staphylococcus warneri,*R,,*R,,R,+,R,,*R,S,R,S,I,R,S,-,,,S,,S,R,S,S,R,S
+554,6009535,Dog,UB mucosa,,GP,Staphylococcus warneri,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+555,6009601,Dog,Exudate,,GP,Staphylococcus aureus,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,S,S,R,R,S
+556,6009609,Dog,wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,R,-,,,R,S,S,S,S,R,R,S
+557,6009612,Cat,Wound at tail,,GP,Staphylococcus schleiferi,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,,S,S,S,S,S,S
+558,6009683,Dog,UB mucosa,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+560,6009743,Dog,น้ำในช่องอก,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,S,S,R,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+563,6009801,Dog,Surgical site,,GP,Enterococcus columbae,S,,S,,S,,,,,S,R,S,S,,,,,,S,,S,,,*R,S,S
+564,6009826,Dog,Seropurulent exudate (aspirate),,GP,Staphylococcus chromogenes,R,,*R,,R,*+,R,,*R,S,R,R,R,S,S,-,,,R,,S,R,S,R,R,S
+565,6009827,Dog,Nasal discharge,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,R,S,S,R,S,R,-,,,S,S,S,R,S,R,R,S
+566,6009870,Dog,Rt ear,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+568,6009978,Cat,Urine,Catheterization,GP,Staphylococcus chromogenes /Staphylococcus xylosus (3x103 CFU/ml),S,,S,,S,S,S,,S,S,S,S,S,S,S,S,,,S,S,S,S,S,S,S,S
+569,6010009,Dog,Wound,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,S,S,S,S,S
+570,6010160,Dog,wound,,GP,Staphylococcus schleiferi or Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+571,6010160,Dog,Exudate from carpal joint,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+572,6010160,Dog,wound,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,S,R,,,,,,S,,S,,,S,R,S
+573,6010168,Dog,Ear exudate,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+574,6010258,Dog,Bite wound (fistular tract),,GP,Streptococcus ovis / Streptococcus parasanguinis / Streptococcus sanguinis,,S,S,S,,,,S,,,S,,,,,,S,S,,,,,,,S,S
+575,6010258,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,S,,S,S,S,R,S,S,R,-,,,R,S,S,R,S,R,R,S
+576,6010321,Dog,Left renal pelvis,,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,
+577,6010333,Dog,ascites,,GP,Staphylococcus aureus,S,,R,,S,-,S,,S,R,R,R,R,S,R,-,,,R,S,S,S,S,R,R,S
+578,6010333,Dog,urine,cystocentesis,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,I,-,,,R,S,S,S,S,R,R,S
+579,6010346,Dog,Exudate from mass,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+580,6010346,Dog,Exudate from surgical drain,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+581,6010399,Dog,Abdominal effusion,,GP,Enterococcus casseliflavus/ gallinarum,S,,S,,R,,,,,S,R,S,I,,,,,,S,,S,,,*R,S,S
+582,6010463,Cat,Wound @ tail,,GP,Staphylococcus schleiferi,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+583,6010561,Cat,abscess,,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,
+584,6010566,Dog,Exudate from ulcerated wound,,GP,Streptococcus dysgalactiae ssp equisimilis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+585,6010589,Dog,Median canthus,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,I,-,,,S,S,S,S,S,S,R,S
+586,6010608,Cat,Urine,catheterization,GP,Staphylococcus caprae or chromogenes) (1.7x105 CFU/ml),S,,S,,S,-,S,,S,S,*R,S,R,S,S,+,,,S,S,S,S,S,S,R,S
+587,6010692,Dog,Exudate from mass,,GP,Streptococcus suis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,,R,S
+588,6010735,Cat,Pus from wound,,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+591,6010777,Dog,Abscess ก้อนข้างตัว,,GP,Staphylococcus chromogenes,S,,R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+592,6010783,Dog,Folliculitis,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+593,6010789,Dog,Exudate from mammary gland,,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,
+595,6010794,Dog,UB mucosa,,GP,Enterococcus faecium,S,,S,,R,,,,,S,R,R,R,,,,,,R,,S,,,*R,R,S
+596,6010814,Dog,Pleural Effusion left and right,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+597,6010814,Dog,Pleural effusion,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+598,6010866,Dog,Abscess wound,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+601,6010913,Dog,Exudate from Rt. middle ear,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,I,R,S,R,-,,,S,S,S,R,S,S,R,S
+602,6011010,Dog,ปัสสาวะ,cystocentesis,GP,Staphylococcus epidermidis (4.8x104 CFU/ml),S,,R,,R,+,R,,R,S,R,I,S,S,I,-,,,R,S,S,R,S,S,R,S
+603,6011037,Dog,Wound @ abscess rt thorax,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+604,6011063,Dog,Abdominal fluid,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,R,R,R,S,I,-,,,R,,S,S,S,R,R,S
+605,6011108,Dog,Prostatic fluid,,GP,Staphylococcus pseudintermedius,S,,R,,R,+,R,,S,R,R,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+606,6011108,Dog,Fluid from paraprostatic cyst,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,R,,S,R,R,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+607,6011108,Dog,Prostatic abscess,,GP,Staphylococcus pseudintermedius,S,,R,,R,+,R,,S,R,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+608,6011108,Dog,Prostatic abscess,,GP,Staphylococcus pseudintermedius,S,,R,,R,+,R,,S,R,R,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+609,6011116,Dog,Exudate from wound,,GP,Streptococcus constellatus,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,,R,S
+611,6011166,Dog,Epidermal collarette,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,S,R,S,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+612,6011280,Cat,Exudate from wound @ left metatarsal,,GP,Staphylococcus aureus,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+613,6011323,Dog,Exudate from ear,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+615,6011373,Cat,Exudate from bite wound,,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,
+616,6011403,Cat,Ear exudate,,GP,Staphylococcus simulans,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+617,6011454,Dog,Granulation tissue from abdomen (GI perforate),,GP,Staphylococcus hyicus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+618,6011473,Dog,Liver FNA,,GP,Staphylococcus hominis ssp hominis,S,,S,,S,-,S,,S,S,R,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+619,6011475,Dog,Exudate from wound ที่กกหูขวา,,GP,Staphylococcus aureus,R,,R,,R,+,R,,R,R,R,R,S,S,I,-,,,R,R,S,R,S,R,R,S
+620,6011475,Dog,Pus from fistula tract,,GP,Staphylococcus epidermidis,S,,R,,S,-,S,,S,S,R,S,R,R,S,-,,,S,S,S,S,S,S,S,S
+621,6011475,Dog,Right TECA,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,I,,S,,,*R,S,S
+622,6011542,Dog,Pododermatitis,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,R,R,S,I,-,,,R,R,S,R,S,S,R,S
+623,6011602,Dog,Abdominal fluid,,GP,Granulicatella elegans,,,,,,,,,,,,,,,,,,,,,,,,,,
+624,6011604,Dog,wound,,GP,Streptococcus canis,,S,S,S,,,,S,,,R,,R,,,,S,S,,,,,,S,R,S
+625,6011618,Dog,Open wound,,GP,Staphylococcus epidermidis,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+626,6011627,Dog,Urine,cystocentesis,GP,Enterococcus faecalis (>105 cfu/mL),S,,S,,R,,,,,S,R,S,I,,,,,,I,,S,,,R,S,S
+627,6011632,Dog,Urine,Catheterization,GP,Streptococcus dysgalactiae ssp equisimilis (2.0x105 CFU/ml),,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,R,S
+628,6011632,Dog,Abdominal cavity,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,R,S
+629,6011643,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+630,6011718,Dog,Abdominal cavity,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,S,R,R,R,S,R,-,,,R,R,S,R,S,R,R,S
+631,6011736,Dog,Purulent aural discharge,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,R,+,,,R,S,S,S,S,R,R,S
+632,6011736,Dog,Forelimb wound,,GP,Staphylococcus chromogenes,S,,R,,S,-,S,,S,S,S,R,R,S,S,-,,,R,S,S,R,S,R,S,S
+633,6011762,Dog,Lt.ear exudate,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+634,6011766,Dog,Deep pyoderma (skin),,GP,Staphylococcus haemolyticus,S,,R,,S,-,S,,S,S,R,R,R,S,R,-,,,R,R,S,R,S,R,R,S
+635,6011852,Dog,urine,,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,
+637,6011884,Dog,urine,,GP,Unidentified gram-positive bacteria,,,,,,,,,,,,,,,,,,,,,,,,,,
+638,6011975,Dog,Epidermal collarette,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,R,I,R,S,S,+,,,S,S,S,S,S,S,R,S
+639,6012008,Dog,Discharge from implant @ stifle joint,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,R,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+641,6012036,Dog,Abscess,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,R,+,,,R,S,S,S,S,R,R,S
+642,6012060,Dog,Prostatic cyst,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,I,S,S,S,-,,,S,S,S,S,S,S,S,S
+643,6012229,Dog,Exudate from wound,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+644,6012273,Cat,Abdominal fluid,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,R,,S,,,*R,S,S
+645,6012301,Dog,wound,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+646,6012326,Dog,UB mucosa,,GP,Staphylococcus pseudintermedius,S,,R,,I,-,I,,S,S,R,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+647,6012365,Dog,Exudate from wound,,GP,Staphylococcus hominis ssp hominis,S,,S,,S,-,S,,S,S,*R,S,R,S,S,+,,,S,S,S,S,S,S,S,S
+648,6012376,Dog,Exudate from mass ใต้คอ,,GP,Staphylococcus schleiferi,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+649,6012385,Dog,Wound @ base of tail,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,R,R,,,,,,R,,S,,,R,R,S
+650,6012387,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+651,6012390,Cat,wound,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+652,6012575,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+653,6012600,Dog,Purulent discharge from ear pinna,,GP,Staphylococcus schleiferi,R,,R,,R,+,R,,R,S,S,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+654,6012631,Cat,Exudate from wound @ Lt lumbar,,GP,Staphylococcus hominis ssp hominis,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+655,6012666,Dog,Lt.FL wound,,GP,Staphylococcus pseudintermedius,S,,R,,I,+,S,,S,R,S,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+656,6012666,Dog,Exudate from wound,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,R,,S,R,R,R,R,S,S,-,,,R,R,S,R,S,R,R,S
+657,6012666,Dog,Exudate from wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+658,6012738,Dog,Ear exudate,,GP,Staphylococcus schleiferi,S,,S,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,S,S,S,S,S
+659,6012774,Dog,Exudate from pododermatitis,,GP,Staphylococcus schleiferi,R,,R,,R,+,R,,R,S,R,R,R,S,S,-,,,R,R,S,R,S,S,R,S
+661,6012825,Cat,Abdominal fluid (from intrapelvic area),,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,R,R,,,,,,R,,R,,,*R,R,S
+662,6012855,Dog,wound,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,R,,S,,,*R,S,S
+663,6012855,Dog,Wound @ rt femur,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,R,,S,,,*R,S,S
+664,6012864,Cat,Rt nasal cavity,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,R,-,,,R,S,S,S,S,R,R,S
+665,6012894,Dog,Pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,R,S,R,S,I,-,,,S,S,S,S,S,R,R,S
+666,6013106,Dog,"Pustule, subcutaneous abscess",,GP,Streptococcus thoraltensis,,,,,,,,,,,S,,S,,,-,I,S,,,,,,R,S,
+667,6013191,Dog,Bite wound at right flank,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+668,6013254,Dog,Left thoracic cavity (wall rupture),,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+669,6013320,Cat,Abscess,,GP,Staphylococcus aureus,S,,R,,S,-,I,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+670,6013374,Dog,Cervical mass,,GP,Methicillin-susceptible Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+672,6013442,Dog,Ub mucosa,,GP,Enterococcus avium,I,,R,,R,,,,,S,R,I,S,,,,,,I,,S,,,S,S,S
+673,6013501,Dog,Wound @ rt perineal area,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+674,6013527,Dog,Ub mucosa,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,I,,S,,,R,R,S
+675,6013614,Dog,Vulva erosion,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,S,-,,,R,S,S,S,S,S,R,S
+676,6013649,Cat,Pleural effusion (Rt and left),,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,R,,S,,,*R,S,S
+677,6013655,Cat,urine,,GP,Staphylococcus chromogenes (2.4x107 CFU/ml),S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+678,6013662,Cat,Bite wound,,GP,Staphylococcus hominis ssp hominis,S,,R,,S,-,S,,S,S,S,S,R,S,S,-,,,S,S,S,S,S,S,S,S
+679,6013742,Dog,Skin crust and exudate,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,R,S,S,-,,,R,S,S,S,S,R,R,S
+680,6013779,Cat,Left ear canal post sx remove,,GP,Staphylococcus lugdunensis,S,,R,,S,-,S,,S,I,R,R,R,S,S,-,,,R,S,S,S,S,R,S,S
+681,6013835,Dog,Rt renal pelvis,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,I,,S,,,*R,S,S
+682,6014597,Dog,Furunculosis ฉีด Convenia not improve,,GP,Staphylococcus kloosii,S,,R,,S,-,S,,S,S,S,S,I,*R,S,-,,,R,S,S,S,S,S,S,S
+683,6013978,Dog,Abdominal cavity (bite wound),,GP,Kocuria varians,,,,,,,,,,,,,,,,,,,,,,,,,,
+684,6013985,Cat,Pleural effusion,,GP,Kocuria rosea,,,,,,,,,,,,,,,,,,,,,,,,,,
+685,6014052,Cat,Abscess Rt HL,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+686,6014058,Cat,urine,,GP,Staphylococcus chromogenes (1.83x107 CFU/ml),S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+687,6014106,Dog,Pus from rt metatarsal mass,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,R,,,,,,I,,S,,,*R,R,S
+688,6014201,Dog,Urine,,GP,Staphylococcus pseudintermedius (1 x 105 cfu/mL),S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+689,6014236,Dog,urine,,GP,Staphylococcus pseudintermedius (1.25 x 107 CFU/ml),S,,*R,,S,-,S,,S,R,R,R,R,S,I,-,,,R,S,S,R,S,S,R,S
+690,6014281,Dog,urine,Catheterization,GP,Streptococcus canis (>1x105 cfu/mL),,S,S,S,,,,,,,S,,S,,,,I,S,,,,,,S,R,S
+691,6014341,Cat,Urine,,GP,Kocuria rosea (1.0x103 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,
+692,6014344,Cat,Pleural effusion,,GP,Staphylococcus caprae,S,,R,,S,-,S,,S,S,R,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+693,6014379,Dog,Exudate from skin disease,,GP,Staphylococcus schleiferi,S,,R,,S,-,S,,S,S,S,I,S,S,S,-,,,S,S,S,R,S,S,S,S
+694,6014429,Dog,UB mucosa (cystic calculi),,GP,Enterococcus durans หรือ Enterococcus faecium,S,,,,R,,,,,,,,,,,,,,I,,,,,,,
+695,6014432,Dog,Left ear,,GP,Staphylococcus haemolyticus,R,,R,,R,+,R,,S,S,R,R,R,I,I,-,,,R,S,S,R,S,S,R,S
+696,6014470,Dog,fluids,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+697,6014511,Dog,urine,Cath.,GP,Staphylococcus pseudintermedius (> 1x105 cfu/mL),R,,R,,R,-,R,,R,S,R,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+698,6014597,Dog,Wound of left thoracic area,Cath.,GP,Staphylococcus haemolyticus,S,,R,,R,+,R,,S,S,R,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+699,6014597,Dog,Left thoracic cavity,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,R,S,I,-,,,R,S,S,S,S,R,R,S
+700,6014650,Dog,wound,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+703,6014844,Cat,Ub mucosa,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,R,I,,,,,,R,,S,,,*R,R,S
+704,6014844,Cat,urine,,GP,Staphylococcus aureus (5.4x106 CFU/ml),S,,*R,,S,-,S,,S,R,R,R,R,S,I,-,,,R,S,S,S,S,S,R,S
+705,6014863,Dog,ขาหน้า,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+706,6014913,Cat,Urine,Cystocentesis,GP,Staphylococcus saprophyticus (1.5 x 105 CFU/ml),R,,R,,R,+,R,,R,S,R,R,R,R,S,-,,,R,S,S,R,S,R,S,S
+707,6014919,Cat,Wound @ distal Rt tibia,,GP,Streptococcus gallolyticus ssp gallolyticus หรือ Streptococcus mutans,,S,S,S,,,,S,,,R,,R,,,,S,S,,,,,,,S,S
+708,6014964,Dog,Urine,catheterization,GP,Enterococcus faecium (2.9x105 CFU/ml),R,,R,,R,,,,,S,R,R,R,,,,,,R,,R,,,*R,R,S
+709,6015030,Dog,Skin pustule swab,,GP,Streptococcus parasanguinis,,S,S,S,,,,S,,,R,,R,,,,S,S,,,,,,,S,S
+710,6015037,Dog,Caseous exudate from wound,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+711,6015100,Dog,Ub mucosa,,GP,Enterococcus faecium,R,,R,,R,,,,,S,R,R,I,,,-,,,R,,I,,,R,R,S
+712,6015195,Dog,gastric content,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,R,R,,,,,,R,,S,,,*R,R,S
+713,6015233,Cat,Exudate from implant,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,I,R,,,,,,I,,S,,,R,R,S
+714,6015246,Dog,Bite wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,R,S,S,+,,,R,S,S,R,S,R,R,S
+715,6015312,Dog,Left tympanic bulla,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,I,R,,,,,,I,,S,,,R,R,S
+716,6015348,Cat,Abscess at Rt FL (bite wound),,GP,Streptococcus anginosus,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,,S,S
+717,6015396,Dog,หูซ้าย,,GP,Staphylococcus schleiferi,S,,R,,S,+,S,,S,S,S,R,S,S,S,-,,,R,S,S,S,S,S,R,S
+719,6015494,Cat,Bite wound (งูเหลือมกัด),,GP,Staphylococcus chormogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+720,6015611,Dog,urine,,GP,Staphylococcus pseudintermedius (2.0x103 CFU/ml),S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+721,6015643,Cat,abdomen,,GP,Staphylococcus warneri or Staphylococcus lugdunensis,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+722,6015683,Dog,pustule,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+723,6015736,Dog,Bite wound (ปะทุ abscess ซ้ำ),,GP,Staphylococcus pseudintermedius,S,,R,,R,-,R,,S,R,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+724,6015787,Cat,Exudate from penetrate wound (metal sick),,GP,Staphylococcus warneri or Staphylococcus hominis ssp hominis),S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+725,6015789,Cat,Exudate from wound,,GP,Staphylococcus hominis ssp hominis,S,,R,,S,-,S,,S,S,R,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+726,6015796,Dog,หูซ้าย,,GP,Staphylococcus schleiferi,S,,R,,R,-,S,,S,S,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+727,6015872,Dog,น้ำในช่องท้อง,,GP,Staphylococcus cohnii ssp urealyticus,*R,,*R,,R,+,R,,*R,S,R,R,R,*R,S,-,,,R,S,S,R,S,R,R,S
+728,6015892,Cat,Bronchioalveolar lavage,,GP,Streptococcus sanguinis or Streptococcus thoraltensis,,S,S,S,,,,S,,,S,,R,,,,I,S,,,,,,,R,S
+731,6016040,Dog,urine,Catheterization,GP,Streptococcus canis (1.4x107 CFU/ml),,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,S,S
+732,6016064,Cat,Nasal discharge,,GP,Streptococcus agalactiae or Streptococcus canis,,S,S,S,,,,S,,,*R,,R,,,+,S,S,,,,,,S,R,S
+734,6016258,Dog,Exudate from the LT tympanic bullae,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,R,S,S,-,,,R,S,S,S,S,R,R,S
+735,6016308,Dog,wound,,GP,Staphylococcus schleiferi,R,,*R,,R,*+,R,,R,S,R,R,R,S,R,-,,,R,R,S,R,S,S,R,S
+736,6016365,Dog,Abdominal fluid,,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,,,,,
+737,6016538,Dog,แผลโดนกัด,,GP,Staphylococcus chromogenes,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+738,6016543,Dog,Abdominal eff,,GP,Micrococcus luteus/lylae,S,,S,,S,-,S,,S,R,,R,R,S,S,-,,,I,R,R,R,S,S,S,S
+739,6016661,Cat,แผลที่จมูก เป็น Sporothrix,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,R,R,R,S,R,-,,,R,R,S,S,S,R,R,S
+740,6016697,Dog,Pustule,,GP,Staphylococcus chromogenes,S,,*R,,S,-,S,,S,S,S,S,S,*R,S,-,,,S,S,S,S,S,S,R,S
+741,6016760,Cat,Pleural effusion (right),,GP,Staphylococcus warneri,S,,*R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+742,6016798,Dog,Mass --> open wound,,GP,Staphylococcus chromoenes,S,,S,,S,-,S,,S,S,S,I,S,S,S,-,,,S,S,S,S,S,S,S,S
+743,6016926,Dog,Open fx of Rt radius (open wound),,GP,Staphylococcus lentus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,,S,S,R,S
+745,6016932,Dog,Abdominal fluid,,GP,Streptococcus infantarius ssp coli (Str.lutetiensis),,S,S,S,,,,S,,,S,,S,,,,I,S,,,,,,,R,S
+746,6016963,Cat,Nasal discharge,,GP,Staphylococcus epidermidis,R,,R,,R,+,R,,R,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+747,6017039,Dog,Abscess at rt. hip area,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,R,R,S
+748,6017074,Dog,open wound/dog bite,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+749,6017140,Dog,abscess,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,R,S,R,R,S,S,+,,,R,S,S,S,S,S,R,S
+750,6017274,Dog,wound,,GP,Staphylococcus warneri,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,R,S,S,R,S
+751,6017295,Cat,Wound @ perineal area,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,I,,S,,,*R,R,S
+752,6017361,Dog,fluid,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+753,6017367,Dog,น้ำในช่องอก,,GP,Staphylococcus epidermidis,*R,,*R,,S,+,*R,,*R,S,R,S,R,*R,S,-,,,S,R,S,R,S,S,R,S
+754,6017379,Cat,UB mucosa,,GP,Enterococcus faecium,R,,R,,R,,,,,S,R,R,R,,,,,,R,,S,,,R,R,S
+755,6017443,Cat,Ear swab (AD Otitis externa),,GP,Staphylococcus simulans,S,,S,,S,S,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+756,6017626,Dog,Abdominal fluid,,GP,Streptococcus infantarius ssp coli (Str.lutetiensis),,S,S,S,,,,S,,,,,S,,,,S,S,,,,,,,R,S
+757,6017629,Dog,Open wound @ Rt elbow,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+759,6017764,Cat,wound,,GP,Staphylococcus aureus,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+760,6017923,Dog,Exudate from wound,,GP,Staphylococcus aureus,*R,,*R,,R,+,*R,,*R,S,R,R,S,S,R,-,,,R,R,S,R,S,S,R,S
+761,6017923,Dog,pus,,GP,Staphylococcus aureus,*R,,*R,,R,+,*R,,*R,S,R,R,S,S,R,-,,,R,R,S,R,S,R,R,S
+762,6017960,Dog,Pustule not improve after AMC,,GP,Staphylococcus schleiferi,S,,*R,,S,-,S,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,S,S
+763,6017965,Dog,Exudate from wound,,GP,Staphylococcus schleiferi,S,,S,,S,-,S,,,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+765,6018028,Dog,Papulocrustous Not improve After AMC,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,S,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+766,6018073,Dog,4/12/2560 ส่งมาจาก IVET : generalized skin disease : open wound,,GP,Staphylococcus schleiferi,*R,,*R,,R,*+,R,,R,S,S,S,S,S,S,-,,,S,S,S,R,S,S,R,S
+767,6018180,Dog,Gall bladder,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,I,S,S,R,S,S,R,-,,,R,S,S,R,S,S,R,S
+768,6018185,Cat,Bite wound @ Rt.buccal face,,GP,Enterococcus faecalis,S,,S,,R,,,,,S,R,I,I,,,,,,R,,S,,,*R,S,S
+770,6018251,Dog,urine,catheterization,GP,Staphylococcus pseudintermedius (7.4x106 CFU/ml),S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,R,R,S
+771,6018289,Cat,Rt. middle ear (purulent exudate),,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,S,R,R,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+772,6018378,Cat,urine,,GP,Enterococcus faecalis (2.0x103 CFU/ml),S,,S,,R,,,,,R,R,R,R,,,,,,R,,S,,,*R,R,S
+773,6018534,Dog,Bloody exudate from skin,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+774,6018545,Cat,Wound @ rt shoulder,,GP,Staphylococcus pseudintermedius,S,,R,,R,-,I,,S,S,S,R,S,S,S,-,,,R,S,S,R,S,S,R,S
+775,6018744,Cat,urine,Catheterization,GP,Low discrimination (Staphylococcus xylosus/Staphylococcus simulans)(1.9x105 CFU/ml),S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+776,6018753,Dog,Subcutaneous hematoma with exudate at Lt. hip area,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+777,6018806,Cat,Wound @ Rt HL,,GP,Enterococcus faecalis,S,,S,,R,,,,,R,R,I,R,,,,,,I,,S,,,S,R,S
+778,6018863,Dog,urine,catheterization,GP,Low discrimination,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,R,S
+779,6018915,Dog,Rt. scapular wound (เหล็กบาด),,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+780,6018928,Dog,Nasal discharge,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,S,R,R,R,R,S,S,-,,,R,S,S,R,S,R,R,S
+783,6019017,Cat,Exudate from wound : สะโพกขวา,,GP,Streptococcus canis,,S,S,S,,,,S,,,S,,S,,,,S,S,,,,,,S,R,S
+784,6019026,Dog,Wound at Rt.HL,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+785,-,Dog,swab หูน้ำหนวก chronic otitis >3yrs,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,S,R,R,R,S,R,-,,,R,S,S,R,S,R,R,S
+787,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+19 July 2017
+Date of submission
+19 July 2017
+Owner
+ภาติยา วรรณทอง
+Patient
+อิชิ
+Species
+Dog
+Breed
+Labrador Retriever
+Sex
+Male
+Birth date
+Year 2007
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab จากหูขวา
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Granulicatella adiacens
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+TRM
+NA
+Benzyl penicillin
+TRM
+NA
+Amoxicillin/clavulanic
+TRM
+NA
+Oxacillin
+TRM
+NA
+Cephalothin
+TRM
+NA
+Cefpodoxime
+TRM
+NA
+Cefovecin
+TRM
+NA
+Gentamicin
+TRM
+NA
+Enrofloxacin
+TRM
+NA
+Marbofloxacin
+TRM
+NA
+Inducible clindamycin
+TRM
+NA
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+TRM
+NA
+Clindamycin
+TRM
+NA
+Vancomycin
+TRM
+NA
+Tetracycline
+TRM
+NA
+Nitrofurantoin
+TRM
+NA
+Fusidic acid
+TRM
+NA
+Mupirocin
+TRM
+NA
+Chloramphenicol
+TRM
+NA
+Rifampicin
+TRM
+NA
+Sulfamethoxazole/trimethoprim
+TRM
+NA
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Granulicatella adiacens
+--	Granulicatella adiacens เป็น gram-positive cocci ที่เป็นเชื้อประจำถิ่นที่ผิวหนังและเยื่อเมือกของสัตว์ ไม่มีบทบาทในการก่อโรค จึงมีโอกาสเป็นไปได้สูงที่เกิดการปนเปื้อมายังรอยโรคและการเก็บตัวอย่าง
+--	เนื่องจากเชื้อนี้เป็นเชื้อไม่ก่อโรค จึงไม่มีค่าวิกฤติมาตรฐานในการแปลผลความไวรับต่อยาต้านจุลชีพ
+--	แนะนำให้ทำความสะอาดช่องหูวันละ 1 ครั้ง ด้วยน้ำยาล้างหูที่มี antiseptics เป็นส่วนประกอบที่มีคุณสมบัติในการทำลายเชื้อและ biofilm ของเชื้อ หรือ Tris EDTA ทิ้งไว้ 20-30 นาที แล้วจึงหยอดยาหยอดหูที่มีส่วนประกอบของยาต้านจุลชีพ เช่น gentamicin หรือ marbofloxacin 
+--		ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อที่กระจายทั่วร่างกาย ยาต้านจุลชีพที่เป็น 1st-line empirical treatment ที่แนะนำ ได้แก่
+	--		Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+--	ในกรณีที่ไม่ตอบสนองต่อการรักษา แนะนำให้ทำ cytologic examination ดูลักษณะเซลล์แบคทีเรีย และเก็บตัวอย่างส่งตรวจเพาะเชื้อซ้ำ
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 27 กรกฎาคม พ.ศ.2560",Dog,Swab จากหูขวา,,GP,Granulicatella adiacens,,,,,,,,,,,,,,,,,,,,,,,,,,
+789,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 (Talung sv-31877-01)
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 (Talung sv-31877-01)
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+4 Oct 2017
+Date of submission
+4 Oct 2017
+Owner
+Mr.Parin Pann
+Patient
+Talung
+Species
+Dog
+Breed
+Shih Tzu
+Sex
+Unk
+Birth date
+Year 2004
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab ขาหนีบข้างซ้าย
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Staphylococcus pseudintermedius
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+NEG
+-
+Benzyl penicillin
+<=0.03
+S
+Amoxicillin/clavulanic
+<=2
+S
+Oxacillin
+<=0.25
+S
+Cephalothin
+<=2
+S
+Cefpodoxime
+<=0.5
+S
+Cefovecin
+<=0.5
+S
+Gentamicin
+<=0.5
+S
+Enrofloxacin
+<=0.5
+S
+Marbofloxacin
+<=0.5
+S
+Inducible clindamycin
+NEG
+-
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+0.5
+S
+Clindamycin
+0.25
+S
+Vancomycin
+<=0.5
+S
+Tetracycline
+<=1
+S
+Nitrofurantoin
+<=16
+S
+Fusidic acid
+<=0.5
+S
+Mupirocin
+<=1
+S
+Chloramphenicol
+8
+S
+Rifampicin
+<=0.5
+S
+Sulfamethoxazole/trimethoprim
+<=10
+S
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Methicillin-susceptible Staphylococcus pseudintermedius
+--	ยาต้านจุลชีพที่แนะนำ ได้แก่
+	--		Cephalexin 25 mg/kg q12h PO for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+	--		Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+	--		Clindamycin 5.5-11 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+	--	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+	--	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท 
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 9 ตุลาคม พ.ศ.2560",Dog,Swab ขาหนีบข้างซ้าย,,GP,Staphylococcus pseudintermedius,S,,S,,S,-,S,,S,S,S,S,S,S,S,-,,,S,S,S,S,S,S,S,S
+791,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม9 SR-111454-22
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม9 SR-111454-22
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+28 Aug 2017
+Date of submission
+30 Aug 2017
+Owner
+โสภิตนภางค์ ชวง
+Patient
+Unk 
+Species
+Dog
+Breed
+Thai
+Sex
+Unk
+Birth date
+Year 2016
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Exudate from SX wound
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Staphylococcus pseudintermedius
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+POS
++
+Benzyl penicillin
+>=0.5
+R
+Amoxicillin/clavulanic
+16
+R
+Oxacillin
+>=4
+R
+Cephalothin
+>=32
+R
+Cefpodoxime
+>=8
+R
+Cefovecin
+>=8
+R
+Gentamicin
+8
+I
+Enrofloxacin
+>=4
+R
+Marbofloxacin
+>=4
+R
+Inducible clindamycin
+NEG
+-
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+>=8
+R
+Clindamycin
+>=4
+R
+Vancomycin
+<=0.5
+S
+Tetracycline
+>=16
+R
+Nitrofurantoin
+<=16
+S
+Fusidic acid
+<=0.5
+S
+Mupirocin
+<=1
+S
+Chloramphenicol
+8
+S
+Rifampicin
+<=0.5
+S
+Sulfamethoxazole/trimethoprim
+>=320
+R
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Methicillin-resistant Staphylococcus pseudintermedius
+--	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin หรือ mupirocin 
+--	เชื้อเป็น multidrug resistance แสดงการดื้อยาต้านจุลชีพตามระบบที่มีการใช้ในทางสัตวแพทย์ทุกชนิดที่ทำการทดสอบ
+--		 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อที่กระจายทั่วร่างกาย ยาต้านจุลชีพที่แนะนำ ได้แก่
+	--		Vancomycin 15 mg/kg q6-8h IV infusion หรือ constant-rate infusion (CRI) โดยใช้ loading dose ในขนาด 3.5 mg/kg ตามด้วย CRI ในขนาด 1.5 mg/kg/h (ผสมยาในD5W) for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิทและให้ยาต่อไปอีก 1-2 สัปดาห์ **ควร monitor ไตและภาวะแห้งน้ำของสุนัข ปรับขนาดของยาหากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากยาอาจจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 1 กันยายน พ.ศ.2560",Dog,Exudate from SX wound,,GP,Staphylococcus pseudintermedius,R,,R,,R,+,R,,R,S,R,R,R,S,I,-,,,R,S,S,R,S,R,R,S
+792,รพส.ทองหล่อ,Dog,Swab wound,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,S,S,R,S,S,R,-,,,R,S,S,S,S,R,R,S
+793,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 (ผศ.สพ.ญ.ดร.ชาลิกา หวังดี)
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 (ผศ.สพ.ญ.ดร.ชาลิกา หวังดี)
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+20 Aug 2017
+Date of submission
+21 Aug 2017
+Owner
+นิรดา จิระประเสริฐพันธ์
+Patient
+โชคดี (PY-78793-05)
+Species
+Dog
+Breed
+Rottweiler
+Sex
+Unk
+Birth date
+Year 2011
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab 
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Staphylococcus pseudintermedius
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+NEG
+-
+Benzyl penicillin
+>=0.5
+R
+Amoxicillin/clavulanic
+8
+R
+Oxacillin
+>=4
+R
+Cephalothin
+8
+R
+Cefpodoxime
+>=8
+R
+Cefovecin
+>=8
+R
+Gentamicin
+>=16
+R
+Enrofloxacin
+>=4
+R
+Marbofloxacin
+>=4
+R
+Inducible clindamycin
+NEG
+-
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+>=8
+R
+Clindamycin
+>=4
+R
+Vancomycin
+<=0.5
+S
+Tetracycline
+>=16
+R
+Nitrofurantoin
+<=16
+S
+Fusidic acid
+<=0.5
+S
+Mupirocin
+<=1
+S
+Chloramphenicol
+>=64
+R
+Rifampicin
+<=0.5
+S
+Sulfamethoxazole/trimethoprim
+<=10
+S
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Methicillin-resistant Staphylococcus pseudintermedius
+--		เชื้อเป็น MRSP ไม่แนะนำให้ใช้ยากลุ่ม beta-lactams ในการรักษาเนื่องจากให้ผลการรักษาที่ไม่แน่นอน
+--		หากเป็นบาดแผล/รอยโรคภายนอก แนะนำให้ล้างทำความสะอาดบาดแผล/รอยโรคด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น fusidic acid หรือ mupirocin 
+--		เนื่องจากสัตวแพทย์ไม่ได้ระบุตำแหน่งการเก็บตัวอย่าง ยาต้านจุลชีพที่แนะนำจึงอ้างอิงจากผลความไวรับเพียงอย่างเดียว อย่างไรก็ตามสัตวแพทย์ควรพิจารณาเรื่องการกระจายตัวของยาไปยังบริเวณที่เกิดการติดเชื้อ และความรุนแรงของการติดเชื้อ เพื่อประกอบการตัดสินใจเลือกใช้ยาและวิถีในการให้ยาด้วย ยาที่แนะนำได้แก่
+	--		Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 25 สิงหาคม พ.ศ.2560",Dog,Swab,,GP,Staphylococcus pseudintermedius,R,,R,,R,-,R,,R,R,R,R,R,S,R,-,,,R,S,S,R,S,S,R,S
+794,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+11 Nov 2017
+Date of submission
+13 Nov 2017
+Owner
+Miss Barhara Parmar
+Patient
+Unk
+Species
+Dog
+Breed
+Pomeranian
+Sex
+Unk
+Birth date
+Year 2011
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab ขี้หู
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420381403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Staphylococcus pseudintermedius
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+NEG
+-
+Benzyl penicillin
+0.06
+R
+Amoxicillin/clavulanic
+<=2
+S
+Oxacillin
+TRM
+NA
+Cephalothin
+<=2
+S
+Cefpodoxime
+1
+S
+Cefovecin
+<=0.5
+S
+Gentamicin
+<=0.5
+S
+Enrofloxacin
+2
+I
+Marbofloxacin
+2
+I
+Inducible clindamycin
+POS
++
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+>=8
+R
+Clindamycin
+0.5
+*R
+Vancomycin
+<=0.5
+S
+Tetracycline
+<=1
+S
+Nitrofurantoin
+256*
+R
+Fusidic acid
+<=0.5
+S
+Mupirocin
+>=512
+R
+Chloramphenicol
+16
+I
+Rifampicin
+<=0.5
+S
+Sulfamethoxazole/trimethoprim
+<=10
+S
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Methicillin-resistant Staphylococcus pseudintermedius 
+--		เนื่องจากผลความไวรับต่อ oxacillin ไม่สามารถอ่านค่าได้จากชุดทดสอบ จึงนำไปทำทดสอบหาคุณสมบัติ methicillin resistance ด้วย disk diffusion test
+--		ผลความไวรับเชื้อจาก disk diffusion test ของยา Oxacillin (R) บ่งชี้ว่าเป็น MRSP ไม่แนะนำให้ใช้ยาต้านจุลชีพกลุ่ม beta-lactams ในการรักษา เนื่องจากอาจให้ผลการรักษาที่ไม่แน่นอน
+--	แนะนำให้ทำความสะอาดช่องหูวันละ 1 ครั้ง ด้วยน้ำยาล้างหูที่มี antiseptics เป็นส่วนประกอบที่มีคุณสมบัติในการทำลายเชื้อและ biofilm ของเชื้อ หรือ Tris EDTA ทิ้งไว้ 20-30 นาที แล้วจึงหยอดยาหยอดหูที่มีส่วนประกอบของยาต้านจุลชีพ เช่น gentamicin หรือ marbofloxacin ถึงแม้จากค่า MIC เชื้อจะดื้อต่อยา 2 ชนิดนี้ แต่การใช้ยาภายนอก ความเข้มข้นของยาที่สัมผัสกับเชื้อจะสูงกว่าระดับยาในเลือดมาก จึงสามารถใช้กำจัดเชื้อได้
+--	ในกรณีที่มีการอักเสบติดเชื้อรุนแรง ติดเชื้อที่ช่องหูส่วนกลาง หรือเสี่ยงต่อการติดเชื้อที่กระจายทั่วร่างกาย ยาต้านจุลชีพที่แนะนำ ได้แก่
+	--	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+	--	Doxycycline 10 mg/kg q12h PO PC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 20 พฤศจิกายน พ.ศ.2560",Dog,Swab ขี้หู,,GP,Staphylococcus pseudintermedius,S,,R,,S,-,S,,S,I,*R,I,R,S,S,+,,,I,R,R,,S,S,S,S
+796,"รพส.ทองหล่อ พระราม 9
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN รพส.ทองหล่อ พระราม 9
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+20 July 2017
+Date of submission
+21 July 2017
+Owner
+สมถวิล รอดเงิน
+Patient
+ส้มเช้ง
+Species
+Cat
+Breed
+Thai
+Sex
+Unk
+Birth date
+March 2016
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab หนองจากฝี
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Kocuria rosea
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+TRM
+NA
+Benzyl penicillin
+TRM
+NA
+Amoxicillin/clavulanic
+TRM
+NA
+Oxacillin
+TRM
+NA
+Cephalothin
+TRM
+NA
+Cefpodoxime
+TRM
+NA
+Cefovecin
+TRM
+NA
+Gentamicin
+TRM
+NA
+Enrofloxacin
+TRM
+NA
+Marbofloxacin
+TRM
+NA
+Inducible clindamycin
+TRM
+NA
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+TRM
+NA
+Clindamycin
+TRM
+NA
+Vancomycin
+TRM
+NA
+Tetracycline
+TRM
+NA
+Nitrofurantoin
+TRM
+NA
+Fusidic acid
+TRM
+NA
+Mupirocin
+TRM
+NA
+Chloramphenicol
+TRM
+NA
+Rifampicin
+TRM
+NA
+Sulfamethoxazole/trimethoprim
+TRM
+NA
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Kocuria rosea
+--	Kocuria rosea เป็น gram-positive cocci ที่เป็นเชื้อประจำถิ่นที่ผิวหนังและเยื่อเมือกของสัตว์ ไม่มีบทบาทในการก่อโรค จึงมีโอกาสเป็นไปได้สูงที่เกิดการปนเปื้อมายังรอยโรคและการเก็บตัวอย่าง
+--	เนื่องจากเชื้อนี้เป็นเชื้อไม่ก่อโรค จึงไม่มีค่าวิกฤติมาตรฐานในการแปลผลความไวรับต่อยาต้านจุลชีพ
+--	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+--		 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อที่กระจายทั่วร่างกาย ยาต้านจุลชีพที่เป็น 1st-line empirical treatment ที่แนะนำ ได้แก่
+	--		Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+--	ในกรณีที่ไม่ตอบสนองต่อการรักษา แนะนำให้ทำ cytologic examination ดูลักษณะเซลล์แบคทีเรีย และเก็บตัวอย่างส่งตรวจเพาะเชื้อซ้ำ
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 26 กรกฎาคม พ.ศ.2560",Cat,Swab หนองจากฝี,,GP,Kocuria rosea,,,,,,,,,,,,,,,,,,,,,,,,,,
